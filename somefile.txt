@@ -1,2 +1,7 @@
 hello
 my name is fareed
+I am an electrical engineering graduate
+I am also an energy science postgraduate
+I completed my engineering in 2019
+I am trying too break into coding since 2016
+I would love to be a MERN developer 
