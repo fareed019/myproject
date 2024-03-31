@@ -1,2 +1,5 @@
 hello
 my name is fareed
+right now I am on my-feature branch so I am going to add onto this 
+this is going to be added to git hub repository
+I am also going to make changes to the javascript file as well
