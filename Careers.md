@@ -1,0 +1,59 @@
+@import url(https://themes.googleusercontent.com/fonts/css?kit=pR0sBQVcY0JZc\_ciXjFsK5y9kYW5VHv8HfZjDC02\_a8ITPORH\_hQriCcoQ2Y8llt);ol{margin:0;padding:0}table td,table th{padding:0}.c6{-webkit-text-decoration-skip:none;color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:12pt;font-family:"Libre Baskerville";font-style:normal}.c0{margin-left:-28.3pt;padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;margin-right:-30.4pt}.c8{margin-left:-28.3pt;padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center;margin-right:-30.4pt}.c7{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c2{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Libre Baskerville";font-style:normal}.c4{-webkit-text-decoration-skip:none;color:#1155cc;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-family:"Libre Baskerville"}.c5{background-color:#ffffff;max-width:451.4pt;padding:49.6pt 72pt 34.6pt 72pt}.c1{color:inherit;text-decoration:inherit}.c3{height:11pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}
+
+These 30 companies offer fully remote job roles at great compensation for skilled employees. The links provided below go to their website’s careers section for you to easily browse and apply:
+
+[FluentU](https://www.google.com/url?q=https://fluentu.slab.com/public/posts/remote-jobs-at-fluent-u-join-our-team-dmjjulyu&sa=D&source=editors&ust=1714705305185579&usg=AOvVaw2pn-sxA80Qat_xyuiE7q5R)
+
+[Static Media](https://www.google.com/url?q=https://www.mediabistro.com/companies/static-media&sa=D&source=editors&ust=1714705305185845&usg=AOvVaw3MZ6RRwonBh2C8GJpDLt4J)
+
+[Kraken](https://www.google.com/url?q=https://jobs.ashbyhq.com/kraken.com&sa=D&source=editors&ust=1714705305185994&usg=AOvVaw04Qw_5VZFynD4Z2qVBPPwc)
+
+[Chainlink Labs](https://www.google.com/url?q=https://chainlinklabs.com/careers&sa=D&source=editors&ust=1714705305186125&usg=AOvVaw1qMdbNUg7e0IVk86Uwl8SD)
+
+[Veeva](https://www.google.com/url?q=https://careers.veeva.com/job-search-results/&sa=D&source=editors&ust=1714705305186318&usg=AOvVaw2WtjSN1kz8FzlS9SP4ksOM)
+
+[Invisible Technologies](https://www.google.com/url?q=https://www.invisible.co/join-us&sa=D&source=editors&ust=1714705305186484&usg=AOvVaw2n3c3xdQbc9W6ohhzCMIB6)
+
+[Wikimedia Foundation](https://www.google.com/url?q=https://wikimediafoundation.org/about/jobs/%23section-1&sa=D&source=editors&ust=1714705305186662&usg=AOvVaw1lYe5uJdZyssdc9sGuPVok)
+
+[Finixio](https://www.google.com/url?q=https://finixio.com/careers/%23hiringsect&sa=D&source=editors&ust=1714705305186859&usg=AOvVaw17eVrid5LeKskhIK2EeOrY)
+
+[Oyster HR](https://www.google.com/url?q=https://www.oysterhr.com/careers%23job-board&sa=D&source=editors&ust=1714705305187006&usg=AOvVaw3Y1VZfgip7tZc9kX9SHlh6)
+
+[Canonical](https://www.google.com/url?q=https://canonical.com/careers/all&sa=D&source=editors&ust=1714705305187136&usg=AOvVaw2ilZgdGWyS9NbxrkNCu45G)
+
+[Remote Technology Inc](https://www.google.com/url?q=https://remote.com/openings&sa=D&source=editors&ust=1714705305187267&usg=AOvVaw26ug5S0yhd-o91CWIOlzNT)
+
+[Study dot com](https://www.google.com/url?q=https://study.com/pages/Employment.html&sa=D&source=editors&ust=1714705305187398&usg=AOvVaw0t3y9She8b6fNEHRjxusOv)
+
+[Magic Media and Entertainment Group](https://www.google.com/url?q=https://magicmedia.studio/careers/&sa=D&source=editors&ust=1714705305187575&usg=AOvVaw1bevHwOX973mSQiUP3-gpf)
+
+[Superside](https://www.google.com/url?q=https://careers.superside.com/jobs&sa=D&source=editors&ust=1714705305187710&usg=AOvVaw28M6NDykLj1axNBAtt6wHk)
+
+[Yodo1](https://www.google.com/url?q=https://www.yodo1.com/careers/&sa=D&source=editors&ust=1714705305187840&usg=AOvVaw3xL5QuctiL3c07ebRf9N9H)
+
+[Nethermind](https://www.google.com/url?q=https://www.nethermind.io/open-roles%23OPEN-ROLES&sa=D&source=editors&ust=1714705305187975&usg=AOvVaw0fR1sY5cGH5JkRyNcy9B3X)
+
+[Sourcegraph](https://www.google.com/url?q=https://boards.greenhouse.io/sourcegraph91?gh_src%3Dc685479c4us&sa=D&source=editors&ust=1714705305188118&usg=AOvVaw3kAmkBqKtHHgeEB697udWF)
+
+[Verra](https://www.google.com/url?q=https://verra.org/about/opportunities/&sa=D&source=editors&ust=1714705305188293&usg=AOvVaw1vM1gtT7s0yZxxdgPgNHfM)
+
+[Carry1st](https://www.google.com/url?q=https://apply.workable.com/carry1st/&sa=D&source=editors&ust=1714705305188535&usg=AOvVaw2Q78sQO0H6J_xT18aOd3nY)
+
+[Consensys](https://www.google.com/url?q=https://consensys.io/open-roles&sa=D&source=editors&ust=1714705305188727&usg=AOvVaw2yUzTmcC5sajGx_mnSJCrm)
+
+[Hypixel Studios](https://www.google.com/url?q=https://hypixelstudios.com/jobs/&sa=D&source=editors&ust=1714705305188915&usg=AOvVaw3-OYo44mpLOPFIwjW64Yly)
+
+[Screen Rant](https://www.google.com/url?q=https://screenrant.com/work-with-us/&sa=D&source=editors&ust=1714705305189049&usg=AOvVaw3ZNtp0JvNj7asvKhmntSXX)
+
+[Crimson Education](https://www.google.com/url?q=https://careers.crimsoneducation.org/jobs&sa=D&source=editors&ust=1714705305189211&usg=AOvVaw2FVZNx4mcpxUAE53QF_LVd)
+
+[e2f](https://www.google.com/url?q=https://www.e2f.com/jobs&sa=D&source=editors&ust=1714705305189352&usg=AOvVaw1W0_vGfRV1ntW5LHjlwAOT)
+
+[Xapo Bank](https://www.google.com/url?q=https://boards.greenhouse.io/xapo61&sa=D&source=editors&ust=1714705305189577&usg=AOvVaw1qfsz04tC8Arwe65fTwZmx)
+
+[Cash App](https://www.google.com/url?q=https://cash.app/careers%23&sa=D&source=editors&ust=1714705305189740&usg=AOvVaw0S_YJMgnt0fzG69l5TApmM)
+
+[Scopic Software](https://www.google.com/url?q=https://careers.scopicsoftware.com/&sa=D&source=editors&ust=1714705305189942&usg=AOvVaw3qcGGXnctOQDE6mHWrKtNu)
+
+[Binance](https://www.google.com/url?q=https://www.binance.com/en/careers%23teams&sa=D&source=editors&ust=1714705305190099&usg=AOvVaw3Jbh93VwIiznI2awwX7vjM)
